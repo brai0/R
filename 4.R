@@ -16,8 +16,3 @@ print(df)
 
 df2=na.omit(df)
 print(df2)
-
-
-Console
-Shell
-main.r - 4 - Replit
